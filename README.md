@@ -1,6 +1,6 @@
 # Flapity
 
-<a href="https://play.google.com/store/apps/details?id=com.heethsapps.heeth.flapity"><img src="images/google_play_badge.png" width="150"></a>
+<a href="https://play.google.com/store/apps/details?id=com.heethsapps.heeth.flapity"><img src="google_play_badge.png" width="150"></a>
 
 Flapity is the fan remake of 2013's hit game, but there's a twist....
 
